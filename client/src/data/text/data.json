@@ -1,0 +1,17 @@
+[
+    {
+        "img": "assets/cartcar.png",
+        "title": "Transperent Pricing",
+        "description": "No surprises here. See how much you'll pay on cars you like."
+    },
+    {
+        "img": "assets/stop.png",
+        "title": "Minutes, not hours",
+        "description": "Time saving tools to help you find the right car in a snap."
+    },
+    {
+        "img": "assets/carr.png",
+        "title": "Minutes, not hours",
+        "description": "Time saving tools to help you find the right car in a snap."
+    }
+]
